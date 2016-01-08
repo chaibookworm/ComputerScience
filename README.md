@@ -1,2 +1,3 @@
 # ComputerScience
-Intro to Computer Science exercises with Mr. Bedney
+Frustration, confusion and self-doubt all packaged into a neat little folder
+
